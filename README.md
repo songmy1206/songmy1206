@@ -1,16 +1,21 @@
-### Hi there 👋
+<div align="center">
+  
+### :crystal_ball: Skills 
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+<br/>
+<br/>
 
-<!--
-**songmy1206/songmy1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :email: Email 
+songmy1206@gmail.com
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+### :purple_heart::purple_heart::purple_heart:
+![songmy1206's GitHub stats](https://github-readme-stats.vercel.app/api?username=songmy1206&theme=buefy&hide=contribs,issues)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
