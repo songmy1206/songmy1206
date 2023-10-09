@@ -23,7 +23,7 @@
 
 ### :crystal_ball: Contact
 <a href="http://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=songmy1206@gmail.com" target="_blank"><img src="https://img.shields.io/badge/songmy1206@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
-<a href="https://good-marmoset-cba.notion.site/cfa91761876f4d8fa33f57dd17194af9?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
+<!--<a href="https://good-marmoset-cba.notion.site/cfa91761876f4d8fa33f57dd17194af9?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">-->
 <br/>
 <br/>
 
